@@ -1,2 +1,2 @@
 # pypypro
-Just my sample of python language
+Just a sample of book store program.
